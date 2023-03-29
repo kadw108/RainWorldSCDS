@@ -1,4 +1,9 @@
-﻿using BepInEx;
+﻿// Old code saved for posterity.
+// New version is RainWorldSCDSNew.cs, by forthbridge.
+
+/*
+
+using BepInEx;
 using UnityEngine;
 
 // mod-specific using
@@ -21,6 +26,8 @@ namespace RainWorldSCDSMod
         {
             On.Menu.MainMenu.Update += MainMenu_Update;
             On.MoreSlugcats.DatingSim.Update += DatingSim_Update;
+
+            Debug.Log("Rain World SCDS running");
         }
 
         // Based on MainMenu.eeCheck() --- the method that activates the secret campaign.
@@ -77,3 +84,4 @@ namespace RainWorldSCDSMod
         }
     }
 }
+*/

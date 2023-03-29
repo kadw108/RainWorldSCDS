@@ -12,9 +12,15 @@ WARNING: Downpour spoilers under the cut! What could this mod possibly be for...
 
 Rain World Slugcat Dating Sim
 
-Makes it easier to access the official dating sim that comes with More Slugcats. (Yes, it's real.) Press D or the throw button on the main menu to open it up. From the sim, press the pause button to return to the main menu.
+by forthbridge and KADW
 
-Mod concept and thumbnail art by badgerotter.
+Version 1.1
+
+Makes it easier to access the official dating sim that comes with More Slugcats. (Yes, it's real.)
+
+Default controls: Press D to open it up. From the sim, press the pause button to return to the main menu. These controls can be configured in the settings.
+
+Mod concept and thumbnail art by badgerotter. Forthbridge made the version 1.1 update, so thanks to them for the input config and the fact that it no longer breaks the newest version of Rain World (currently v1.9.07)!
 
 Source code, and mod folder for non-Steam players, available at https://github.com/kadw108/rainworldscds
 

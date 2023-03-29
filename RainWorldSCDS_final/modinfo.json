@@ -1,9 +1,9 @@
 {
     "id": "kadw.rainworldscds",
     "name": "Rain World SCDS",
-    "version": "1.0",
-    "authors": "KADW",
-    "description": "Makes it easier to access the official dating sim that comes with More Slugcats. (Yes, it's real.) Press D or the throw button on the main menu to open it up. From the sim, press the pause button to return to the main menu.<LINE><LINE>Mod concept and thumbnail art by badgerotter.",
+    "version": "1.1",
+    "authors": "forthbridge and KADW",
+    "description": "Makes it easier to access the official dating sim that comes with More Slugcats. (Yes, it's real.) Press D on the main menu to open it up. From the sim, press the pause button to return to the main menu. Controls can be changed in mod settings.<LINE><LINE>Mod concept and thumbnail art by badgerotter. Version 1.1 and input config by forthbridge.",
     "requirements": ["moreslugcats"],
     "requirements_names": ["More Slugcats Expansion"],
     "checksum_override_version": false
